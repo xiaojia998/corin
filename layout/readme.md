@@ -10,7 +10,7 @@
 | 2.25U         | 1        |
 | 6.25U         | 1        |
 
-![keycap](https://github.com/longnald/corin/raw/master/layout/base/keycap.png)
+![keycap](https://github.com/longnald/corin/raw/master/layout/keycap/keycap.png)
 
 ## Keyboard layout
 
