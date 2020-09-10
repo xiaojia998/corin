@@ -1,8 +1,8 @@
-# Longnald Corin
+# Corin
 
 ## Introduction
 
-Longnald Corin is a 64-key keyboard that adds 4 more arrow keys than a regular 60% keyboard, and has Home and End buttons next to the arrow keys. The laminated LEDs provide a great visual experience and this is the best keyboard for software development engineers (and maintenance engineers as well)!
+Corin is a 64-key keyboard that adds 4 more arrow keys than a regular 60% keyboard, and has Home and End buttons next to the arrow keys. The laminated LEDs provide a great visual experience and this is the best keyboard for software development engineers (and maintenance engineers as well)!
 
 The PCB is powered by a ATMEGA32U4-AU and is QMK compatible.
 
