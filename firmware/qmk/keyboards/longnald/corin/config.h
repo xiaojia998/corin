@@ -23,7 +23,7 @@
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x5633
 #define PRODUCT_ID      0x1024
-#define DEVICE_VER      0x0001
+#define DEVICE_VER      0x0002
 #define MANUFACTURER    Longnald
 #define PRODUCT         Longnald Corin Keyboard
 
@@ -40,10 +40,10 @@
 #define RGB_DI_PIN D3
 #ifdef RGB_DI_PIN
     #define RGBLED_NUM 64
-    #define RGBLIGHT_HUE_STEP 8
-    #define RGBLIGHT_SAT_STEP 8
-    #define RGBLIGHT_VAL_STEP 8
-    #define RGBLIGHT_LIMIT_VAL 255
+    #define RGBLIGHT_HUE_STEP 20
+    #define RGBLIGHT_SAT_STEP 20
+    #define RGBLIGHT_VAL_STEP 20
+    #define RGBLIGHT_LIMIT_VAL 200
     #define RGBLIGHT_SLEEP
     #define RGBLIGHT_EFFECT_BREATHING
     #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
