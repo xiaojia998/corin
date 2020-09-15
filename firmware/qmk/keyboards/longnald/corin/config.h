@@ -23,7 +23,7 @@
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x5633
 #define PRODUCT_ID      0x1024
-#define DEVICE_VER      0x0002
+#define DEVICE_VER      0x0003
 #define MANUFACTURER    Longnald
 #define PRODUCT         Longnald Corin Keyboard
 
