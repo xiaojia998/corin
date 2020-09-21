@@ -17,18 +17,6 @@
 # MCU name
 MCU = atmega32u4
 
-# Processor frequency
-F_CPU = 16000000
-
-# LUFA specific
-ARCH = AVR8
-
-# Input clock frequency
-F_USB = $(F_CPU)
-
-# Interrupt driven control endpoint task(+60)
-OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
-
 # Bootloader selection
 BOOTLOADER = atmel-dfu
 
