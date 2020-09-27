@@ -6,7 +6,7 @@ Corin is a 64-key keyboard that adds 4 more arrow keys than a regular 60% keyboa
 
 - Keyboard Maintainer: [Longnald](https://github.com/longnald) & [Seaton Jiang](https://github.com/seatonjiang)
 - Hardware Supported: [Corin PCB (uses 32U4)](https://github.com/longnald/corin)
-- Hardware Availability: [wwww.longnald.com](https://wwww.longnald.com/)
+- Hardware Availability: [www.longnald.com](https://www.longnald.com/)
 
 Make example for this keyboard (after setting up your build environment):
 
