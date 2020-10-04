@@ -10,18 +10,18 @@
 | 2.25U         | 1        |
 | 6.25U         | 1        |
 
-![keycap](https://github.com/longnald/corin/raw/master/layout/keycap/keycap.png)
+![keycap](https://github.com/longnald/corin/raw/main/layout/keycap/keycap.png)
 
 ## Keyboard layout
 
 ### First layer layout
 
-![layout-0](https://github.com/longnald/corin/raw/master/layout/level-0/layout-0.png)
+![layout-0](https://github.com/longnald/corin/raw/main/layout/level-0/layout-0.png)
 
 ### Second layer layout
 
-![layout-1](https://github.com/longnald/corin/raw/master/layout/level-1/layout-1.png)
+![layout-1](https://github.com/longnald/corin/raw/main/layout/level-1/layout-1.png)
 
 ### Third layer layout
 
-![layout-2](https://github.com/longnald/corin/raw/master/layout/level-2/layout-2.png)
+![layout-2](https://github.com/longnald/corin/raw/main/layout/level-2/layout-2.png)
