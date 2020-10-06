@@ -1,6 +1,6 @@
 # Corin
 
-![Corin view](https://github.com/longnald/corin/raw/main/view/view-1.jpg)
+![Corin view](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/view/view-corin.jpg)
 
 ## Introduction
 
@@ -12,21 +12,21 @@ Use WS2812-3528 for LEDs on the PCB, which can be configured as per the QMK capa
 
 ## Graphics
 
-![Corin bottom](https://raw.githubusercontent.com/longnald/corin/main/graphics/bottom_render.svg)
+![Corin bottom](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/graphics/bottom_render.svg)
 
-![Corin top](https://raw.githubusercontent.com/longnald/corin/main/graphics/top_render.svg)
+![Corin top](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/graphics/top_render.svg)
 
 ## Layouts
 
-![layout-0](https://github.com/longnald/corin/raw/main/layout/level-0/layout-0.png)
+![layout-0](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/layout/level-0/layout-0.png)
 
-![layout-1](https://github.com/longnald/corin/raw/main/layout/level-1/layout-1.png)
+![layout-1](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/layout/level-1/layout-1.png)
 
-![layout-2](https://github.com/longnald/corin/raw/main/layout/level-2/layout-2.png)
+![layout-2](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/layout/level-2/layout-2.png)
 
 ## Logo
 
-The Longnald logo was designed using the Deceptibots font by [Iconian Fonts](http://www.iconian.com/index.html). The Longnald logo is therefore intellectual and commercial property of Seaton Jiang, the Deceptibots font is property of Iconian Fonts and their owners.
+The Longnald logo was designed using the Deceptibots font by [Iconian Fonts](http://www.iconian.com/index.html). The Longnald logo is therefore intellectual and commercial property of [Seaton Jiang](https://github.com/seatonjiang), the Deceptibots font is property of Iconian Fonts and their owners.
 
 ## License
 
