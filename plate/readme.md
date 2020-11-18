@@ -1,6 +1,6 @@
 ## Plate layout
 
-![plate](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/plate/plate_corin.png)
+![plate](https://cdn.jsdelivr.net/gh/longnald/corin@1.1/plate/plate_corin.png)
 
 ## Satellite axis
 

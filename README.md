@@ -1,6 +1,6 @@
 # Corin
 
-![Corin view](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/view/view-corin.jpg)
+![Corin view](https://cdn.jsdelivr.net/gh/longnald/corin@1.1/view/view_corin.jpg)
 
 ## Introduction
 
@@ -12,17 +12,17 @@ Use WS2812-3528 for LEDs on the PCB, which can be configured as per the QMK capa
 
 ## Graphics
 
-![Corin bottom](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/graphics/bottom_render.svg)
+![Corin bottom](https://cdn.jsdelivr.net/gh/longnald/corin@1.1/graphics/bottom_corin.svg)
 
-![Corin top](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/graphics/top_render.svg)
+![Corin top](https://cdn.jsdelivr.net/gh/longnald/corin@1.1/graphics/top_corin.svg)
 
 ## Layouts
 
-![layout-0](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/layout/level-0/layout-0.png)
+![layout-0](https://cdn.jsdelivr.net/gh/longnald/corin@1.1/layout/level-0/layout-0.png)
 
-![layout-1](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/layout/level-1/layout-1.png)
+![layout-1](https://cdn.jsdelivr.net/gh/longnald/corin@1.1/layout/level-1/layout-1.png)
 
-![layout-2](https://cdn.jsdelivr.net/gh/longnald/corin@1.0/layout/level-2/layout-2.png)
+![layout-2](https://cdn.jsdelivr.net/gh/longnald/corin@1.1/layout/level-2/layout-2.png)
 
 ## Logo
 
